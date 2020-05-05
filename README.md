@@ -1,2 +1,2 @@
 # KlerosInter
-Secure crowdfunding
+Secure crowdfunding concept
